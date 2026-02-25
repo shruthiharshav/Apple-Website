@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+.header
+ {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    font-family:Arial;
+    color:antiquewhite;
+    font-display: block;
+  
+
+}
+
+.header h1
+{
+    margin-bottom: 5px;
+    font-size:x-large;
+
+}
+
+.header h2
+{
+    margin-top: 10px;
+    font-size: small;
+}
+
+.iphone {
+
+    max-width: 5px;
+    height: 5px;      
+    display:block;
+    margin-left: 50px;
+    margin-right: 0%;
+    object-fit: contain;
+
+
+}
+
+.iphone {
+    text-align: center;
+}
+
+.navbar ul
+{
+    text-align: left;
+    font-family:Arial;
+    color:beige;
+    list-style-type: none;
+    margin-left: auto;
+    display: flex;
+}
+
+.navbar a
+{
+    display: block;
+    color: white;
+    text-decoration: none !important;
+    padding: 15px;
+}
+
+.button
+{
+    font-family:Arial;
+    text-align: center;
+}
